@@ -9,7 +9,7 @@ verify_ssl = true
 numpy = "*"
 matplotlib = "*"
 keras = "*"
-tensorflow = "*"
+tensorflow = ">=2.0.1"
 opencv-python = "*"
 pillow = "*"
 
