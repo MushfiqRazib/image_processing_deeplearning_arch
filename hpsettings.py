@@ -1,4 +1,3 @@
-# Copyright (C) 2019 FZG LEHRSTUHL FÜR MASCHINENELEMENTE. All rights reserved.
 # file: settings.py
 # author: name <email>
 # date: 11-11-2019
