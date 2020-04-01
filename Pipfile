@@ -11,7 +11,7 @@ matplotlib = "*"
 keras = "*"
 tensorflow = ">=2.0.1"
 opencv-python = "*"
-pillow = "6.2.2"
+Pillow = ">=6.2.2"
 
 [requires]
 python_version = "3.7"
